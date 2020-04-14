@@ -1,0 +1,18 @@
+[
+	{
+		"name": "Farisite",
+		"replaces": "Knight",
+		"uniqueTo": "Mazirya",
+		"unitType": "Mounted",
+		"movement": 3,
+		"strength": 20,
+		"cost": 100,
+		"requiredTech": "Chivalry",
+		"requiredResource": "Horses",
+		"upgradesTo": "Cavalry",
+		"obsoleteTech": "Military Science",
+		"uniques": ["Can move after attacking","Bonus vs Mounted 50%"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	}
+]
