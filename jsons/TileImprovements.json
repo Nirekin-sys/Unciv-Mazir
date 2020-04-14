@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Dryfarm",
+		"uniqueTo": "Mazirya",
+		"terrainsCanBeBuiltOn": ["Desert","Flood plains"],
+		"food": 1,
+		"production": 1,
+		"turnsToBuild": 10,
+		"techRequired": "Agriculture",
+		"improvingTech": "Calendar",
+		"improvingTechStats": {"food": 1}
+	}
+]
