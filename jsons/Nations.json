@@ -1,0 +1,30 @@
+[	
+  {
+		"name": "Mazirya",
+		"leaderName": "Caliph Arslan",
+		"adjective": ["Maziriq"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "May the blessings of heaven be upon you, O great Nebuchadnezzar, father of mighty and ancient Babylon! Young was the world when Sargon built Babylon some five thousand years ago, long did it grow and prosper, gaining its first empire the eighteenth century BC, under godlike Hammurabi, the giver of law. Although conquered by the Kassites and then by the Assyrians, Babylon endured, emerging phoenix-like from its ashes of destruction and regaining its independence despite its many enemies. Truly was Babylon the center of arts and learning in the ancient world. O Nebuchadnezzar, your empire endured but a short time after your death, falling to the mighty Persians, and then to the Greeks, until the great city was destroyed by 141 BC.",
+		"startIntroPart2": "But is Babylon indeed gone forever, great Nebuchadnezzar? Your people look to you to bring the empire back to life once more. Will you accept the challenge? Will you build a civilization that will stand the test of time?",
+		
+		"declaringWar": "I will bury you under the desert!",
+		"attacked": "The sandstorms will swallow your army, conqueror.",
+		"defeated": "Like beads of sand in the desert, my realm passes on in history...",
+		"introduction": "Peace be upon you, stranger. Welcome to Mazirya.",
+		
+		"neutralHello": "Looking for water, my friend?",
+		"hateHello": "The desert flows with unrest, I wonder why...",
+		
+		"tradeRequest": "The desert is harsh on my peoples, will you be considerate on this offer?",
+				
+		"outerColor": [211,211,76],
+		"innerColor": [56,56,3],
+		"unique": "SIBERIAN_RICHES",
+		"cities": ["Kabir Suraq","Amwar","Diyar","Sohar","Al Jazain","Jasraz","Qassaisma","Al Zayat","Arduba","Karwibah",
+			"Turaiq","Al Madaiq","Al Qorathi","Jidhat","Zarwuya","Bidbiyat","Khasurah","Ras Duhaah","Zilufi","Khalufi",
+			"Shakhabis","Surain","Zarwiyyah","Al Khasalah","Halun","Al Qorisima","Hattam","Qadaj","As Thumrid","Bahlayrah",
+			"Daayiyat","Wadi Baayah","Sadeef","Mubikhat","Thumralah","Sharjah","Harikha","Meshabad","Jazarah","Hamz Al Nasrim"]
+	}
+]
